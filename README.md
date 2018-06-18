@@ -9,3 +9,5 @@ My goal is to print all these information nicely, to have the list of all the pr
 The unique point of my code is that eventhogh the same person can have different presentation, my outpu won't messed up.
 For example cell 1 contains this information:
 #Number 1:: Presenter1:: Title1:: Abstract1
+
+You cannot use the code as it is. Make sure that you edited the lines that starts with @@ and you have the proper input file.
