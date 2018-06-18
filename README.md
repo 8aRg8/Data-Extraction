@@ -1,5 +1,7 @@
 # Data-Extraction
 Data Extraction from excel file using Python
+
+
 Assume that you have asked people to enter the list of their papers that they want to present in a conference or workshop in a excel file.
 Se we have an excel workbook, each column contains some information such as the title of their papers, or the abstract and presentation number that they got. 
 Then with some simple if function I put all of these information within one cell (seprated by a specific charector), which is for each presentation.
